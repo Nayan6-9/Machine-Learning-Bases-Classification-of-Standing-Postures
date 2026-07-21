@@ -1,0 +1,9 @@
+scheme,model,lopo,s_S01,s_S02,s_S03,s_S04,s_S05
+raw,LogReg,0.7,0.5,0.67,0.83,0.5,1.0
+raw,RForest,0.733,0.67,0.83,0.83,0.5,0.83
+height-norm,LogReg,0.7,0.5,0.67,0.83,0.5,1.0
+height-norm,RForest,0.7,0.5,1.0,0.67,0.5,0.83
+baseline-norm,LogReg,0.767,1.0,1.0,0.67,0.17,1.0
+baseline-norm,RForest,0.633,0.83,0.67,0.5,0.33,0.83
+baseline+height,LogReg,0.767,1.0,1.0,0.67,0.17,1.0
+baseline+height,RForest,0.6,0.83,0.5,0.5,0.33,0.83
