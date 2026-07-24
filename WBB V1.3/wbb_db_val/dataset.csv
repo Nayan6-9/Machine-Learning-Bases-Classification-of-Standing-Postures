@@ -1,0 +1,1 @@
+trial_id,label,subject,timestamp,duration_s,n_samples,mean_cop_x,mean_cop_y,rms_ml,rms_ap,range_ml,range_ap,path_length_cm,mean_velocity_cm_s,ellipse_area_cm2,anterior_pct,lr_asymmetry,mpf_ml,f50_ml,mpf_ap,f50_ap
