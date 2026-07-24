@@ -1,0 +1,7 @@
+feature_set,model,lopo_acc,kfold_acc,gap
+8 CoP features,LogReg,0.7,0.8,0.1
+8 CoP features,RForest,0.733,0.867,0.133
+8 CoP + baseline-norm,LogReg,0.767,0.867,0.1
+8 CoP + baseline-norm,RForest,0.633,0.833,0.2
+8 CoP + MASS (subject-const),LogReg,0.733,0.833,0.1
+8 CoP + MASS (subject-const),RForest,0.767,0.9,0.133
